@@ -22,10 +22,10 @@ export const mockData = {
         },
         {
           "id": "site-1752649007053",
-          "name": "BeJson",
-          "url": "https://www.bejson.com/",
-          "description": "工具大全",
-          "icon": "/sitelogo/www.bejson.com.ico"
+          "name": "小牛插件",
+          "url": "https://c.xiaoniuss.top/",
+          "description": "",
+          "icon": ""
         },
         {
           "id": "github",
