@@ -605,7 +605,7 @@ const tryFallbackServices = async (domain) => {
   const fallbackUrl = `https://www.faviconextractor.com/favicon/${domain}`
 
   // 回退到标准favicon.ico路径
-  // const fallbackUrl = `https://${domain}/favicon.ico`
+  // const fallbackUrl = `https://img.alicdn.com/imgextra/i3/2327995847/O1CN01fhXl2q1t3yYaZYRnO_!!2327995847.png`
 
   try {
     console.log(`🔍 尝试标准路径:`, fallbackUrl)
