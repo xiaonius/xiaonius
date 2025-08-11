@@ -482,10 +482,18 @@ export const mockData = {
     },
     {
       "id": "category-1754901551391",
-      "icon": "z",
-      "name": "z",
+      "icon": ">>",
+      "name": "旗下产品",
       "order": 11,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1754902086157",
+          "name": "小牛搜搜",
+          "url": "https://xiaoniuss.top/",
+          "description": "",
+          "icon": "https://img.alicdn.com/imgextra/i3/2327995847/O1CN01fhXl2q1t3yYaZYRnO_!!2327995847.png"
+        }
+      ]
     }
   ],
   "title": "小牛搜索- XiaoNiuss.Top"
