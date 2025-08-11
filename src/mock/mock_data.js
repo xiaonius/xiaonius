@@ -97,6 +97,41 @@ export const mockData = {
           "url": "https://shop.jd.com",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1754905291734",
+          "name": "淘宝后台",
+          "url": "https://myseller.taobao.com",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1754905305357",
+          "name": "多多后台",
+          "url": "https://mms.pinduoduo.com",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1754905319826",
+          "name": "抖音电商",
+          "url": "https://fxg.jinritemai.com/ffa/mshop/homepage/index",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1754905333947",
+          "name": "832后台",
+          "url": "https://www.fupin832.com/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1754905346520",
+          "name": "有赞后台",
+          "url": "https://www.youzan.com",
+          "description": "",
+          "icon": ""
         }
       ]
     },
