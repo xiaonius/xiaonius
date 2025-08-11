@@ -90,7 +90,15 @@ export const mockData = {
       "name": "常用电商",
       "icon": ">>",
       "order": 1,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1754904825729",
+          "name": "京东后台",
+          "url": "https://shop.jd.com",
+          "description": "",
+          "icon": ""
+        }
+      ]
     },
     {
       "id": "cloud",
