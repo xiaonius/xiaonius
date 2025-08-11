@@ -156,7 +156,7 @@ export const mockData = {
         },
         {
           "id": "site-1754905460302",
-          "name": "https://baike.taobao.com/home.htm",
+          "name": "淘宝百科",
           "url": "https://baike.taobao.com/home.htm",
           "description": "",
           "icon": ""
