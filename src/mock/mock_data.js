@@ -153,6 +153,20 @@ export const mockData = {
           "url": "https://merchant-h5.bestpay.com.cn/paas/khd-index-h5/index.html#/login",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1754905460302",
+          "name": "https://baike.taobao.com/home.htm",
+          "url": "https://baike.taobao.com/home.htm",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1754905473077",
+          "name": "京麦工作台",
+          "url": "https://jm.jd.com/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
