@@ -29,17 +29,59 @@ export const mockData = {
         },
         {
           "id": "github",
-          "name": "GitHub",
-          "url": "https://github.com",
-          "description": "代码托管平台",
-          "icon": "/sitelogo/github.com.ico"
+          "name": "小牛解析",
+          "url": "https://v.xiaoniuss.top/",
+          "description": "",
+          "icon": ""
         },
         {
           "id": "curlconverter",
-          "name": "curl converter",
-          "url": "https://curlconverter.com/",
-          "description": "curl命令转换工具",
-          "icon": "/sitelogo/curlconverter.com.ico"
+          "name": "小牛游戏",
+          "url": "https://y.xiaoniuss.top/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "chatgpt",
+          "name": "代码编辑",
+          "url": "https://c.xiaoniuss.top/bjq/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "claude",
+          "name": "色值选择",
+          "url": "https://c.xiaoniuss.top/ys/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "midjourney",
+          "name": "搜索多开",
+          "url": "https://b.xiaoniuss.top/duoss.html",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "copilot",
+          "name": "小牛导航",
+          "url": "https://xydh.fun/guoxiaohan",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "cursor",
+          "name": "工作区",
+          "url": "https://xydh.fun/rongna",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1754904306436",
+          "name": "大叔工作室",
+          "url": "https://yunyingguan.top",
+          "description": "",
+          "icon": ""
         }
       ]
     },
@@ -48,43 +90,7 @@ export const mockData = {
       "name": "AI智能",
       "icon": "🤖",
       "order": 1,
-      "sites": [
-        {
-          "id": "chatgpt",
-          "name": "ChatGPT",
-          "url": "https://chat.openai.com",
-          "description": "OpenAI对话AI助手",
-          "icon": "/sitelogo/chat.openai.com.ico"
-        },
-        {
-          "id": "claude",
-          "name": "Claude",
-          "url": "https://claude.ai",
-          "description": "Anthropic AI助手",
-          "icon": "/sitelogo/claude.ai.ico"
-        },
-        {
-          "id": "midjourney",
-          "name": "Midjourney",
-          "url": "https://www.midjourney.com",
-          "description": "AI图像生成工具",
-          "icon": "/sitelogo/www.midjourney.com.ico"
-        },
-        {
-          "id": "copilot",
-          "name": "GitHub Copilot",
-          "url": "https://github.com/features/copilot",
-          "description": "AI代码助手",
-          "icon": "/sitelogo/github.com.ico"
-        },
-        {
-          "id": "cursor",
-          "name": "Cursor",
-          "url": "https://cursor.sh",
-          "description": "AI代码编辑器",
-          "icon": "/sitelogo/cursor.sh.ico"
-        }
-      ]
+      "sites": []
     },
     {
       "id": "cloud",
