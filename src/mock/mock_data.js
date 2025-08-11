@@ -10,15 +10,15 @@ export const mockData = {
           "id": "site-1752857783656",
           "name": "小牛搜索",
           "url": "https://xiaoniuss.top/",
-          "description": "旗下产品",
-          "icon": "https://img.alicdn.com/imgextra/i3/2327995847/O1CN01fhXl2q1t3yYaZYRnO_!!2327995847.png"
+          "description": "",
+          "icon": ""
         },
         {
           "id": "linux-do",
-          "name": "Linux.do",
-          "url": "https://linux.do",
-          "description": "Linux技术社区，Peace and Love",
-          "icon": "/sitelogo/linux.do.ico"
+          "name": "小牛书签",
+          "url": "https://b.xiaoniuss.top/",
+          "description": "",
+          "icon": ""
         },
         {
           "id": "site-1752649007053",
