@@ -10,7 +10,8 @@ export const mockData = {
           "id": "site-1752857783656",
           "name": "小牛搜索",
           "url": "https://xiaoniuss.top/",
-          "description": "旗下产品"
+          "description": "旗下产品",
+          "icon": "https://img.alicdn.com/imgextra/i3/2327995847/O1CN01fhXl2q1t3yYaZYRnO_!!2327995847.png"
         },
         {
           "id": "linux-do",
