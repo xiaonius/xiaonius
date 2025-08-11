@@ -77,7 +77,6 @@
           <div class="search-engine-selector">
             <img :src="searchEngines[selectedEngine].icon" :alt="selectedEngine" class="engine-logo" />
             <select v-model="selectedEngine" class="engine-select">
-
               <option value="baidu">百度</option>
               <option value="bing">Bing</option>
               <option value="google">Google</option>
@@ -85,7 +84,6 @@
               <option value="jingdong">京东</option>
               <option value="juzipan">橘子盘搜</option>
               <option value="limao">猫狸盘搜</option>
-
             </select>
           </div>
           <input
@@ -223,7 +221,7 @@ import jingdongLogo from 'https://img.alicdn.com/imgextra/i3/2327995847/O1CN01fh
 import juzipanLogo from 'https://img.alicdn.com/imgextra/i3/2327995847/O1CN01fhXl2q1t3yYaZYRnO_!!2327995847.png'
 import limaoLogo from 'https://img.alicdn.com/imgextra/i3/2327995847/O1CN01fhXl2q1t3yYaZYRnO_!!2327995847.png'
 // 导入GitHub logo
-import githubLogo from '@/assets/github.png'
+import githubLogo from 'https://img.alicdn.com/imgextra/i3/2327995847/O1CN01fhXl2q1t3yYaZYRnO_!!2327995847.png'
 
 // 使用导航API
 const { categories, title, loading, error, fetchCategories } = useNavigation()
@@ -262,13 +260,11 @@ const searchEngines = {
     icon: taobaoLogo,
     placeholder: '输入商品的名字关键词'
   },
-
   jingdong: {
     url: 'https://search.jd.com/Search?keyword=',
     icon: jingdongLogo,
     placeholder: '输入商品的名字关键词'
   },
-
   limao: {
     url: 'https://www.alipansou.com/search?k=',
     icon: limaoLogo,
