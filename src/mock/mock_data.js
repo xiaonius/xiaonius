@@ -8,10 +8,9 @@ export const mockData = {
       "sites": [
         {
           "id": "site-1752857783656",
-          "name": "OpenAI",
-          "url": "https://chatgpt.com",
-          "description": "OpenAI,好用👌",
-          "icon": "/sitelogo/chatgpt.com.ico"
+          "name": "小牛搜索",
+          "url": "https://xiaoniuss.top/",
+          "description": "旗下产品"
         },
         {
           "id": "linux-do",
@@ -481,6 +480,5 @@ export const mockData = {
       ]
     }
   ],
-  "title": "小牛搜索",
-  "_fileSha": "fa76b0cb6370a570d69ded0400e18cf51d5b1886"
+  "title": "小牛搜索"
 }
