@@ -132,6 +132,27 @@ export const mockData = {
           "url": "https://www.youzan.com",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1754905387074",
+          "name": "翼支付KF",
+          "url": "https://h5.bestpay.com.cn/subapps/intelligent-core-h5/manage/index.html?externalUserId=725753262305550340&platformIdentity=newyzfmall#/passport/login",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1754905411467",
+          "name": "翼支付MH",
+          "url": "https://h5.bestpay.com.cn/subapps/merchant-portal-h5/index.html#/home",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1754905438868",
+          "name": "翼支付DS",
+          "url": "https://merchant-h5.bestpay.com.cn/paas/khd-index-h5/index.html#/login",
+          "description": "",
+          "icon": ""
         }
       ]
     },
