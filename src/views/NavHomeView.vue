@@ -258,22 +258,22 @@ const searchEngines = {
   taobao: {
     url: 'https://s.taobao.com/search?q=',
     icon: taobaoLogo,
-    placeholder: '输入商品的名字关键词'
+    placeholder: '（淘宝）输入商品的名字关键词'
   },
   jingdong: {
     url: 'https://search.jd.com/Search?keyword=',
     icon: jingdongLogo,
-    placeholder: '输入商品的名字关键词'
+    placeholder: '（京东）输入商品的名字关键词'
   },
   limao: {
     url: 'https://www.alipansou.com/search?k=',
     icon: limaoLogo,
-    placeholder: '输入电视电影资源名字'
+    placeholder: '（橘子盘搜）输入电视电影资源名字'
   },
   juzipan: {
     url: 'https://www.alipansou.com/search?k=',
     icon: juzipanLogo,
-    placeholder: '输入电视电影资源名字'
+    placeholder: '（狸猫盘搜）输入电视电影资源名字'
   }
 }
 
