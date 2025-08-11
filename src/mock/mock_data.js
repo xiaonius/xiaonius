@@ -4,7 +4,7 @@ export const mockData = {
       "id": "my-favorites",
       "name": "我的常用",
       "icon": "💥",
-      "order": 11,
+      "order": 0,
       "sites": [
         {
           "id": "site-1752857783656",
@@ -484,7 +484,7 @@ export const mockData = {
       "id": "category-1754901551391",
       "icon": ">>",
       "name": "旗下产品",
-      "order": 0,
+      "order": 11,
       "sites": [
         {
           "id": "site-1754902086157",
