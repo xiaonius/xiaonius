@@ -937,7 +937,7 @@ onUnmounted(() => {
 }
 
 .categories-container {
-  max-width: 1200px;
+  max-width: 1500px;
   margin: 0 auto;
 }
 
@@ -975,7 +975,7 @@ onUnmounted(() => {
   align-items: center;
   background: white;
   border-radius: 12px;
-  padding: 20px;
+  padding: 1px;
   text-decoration: none;
   color: inherit;
   transition: all 0.3s ease;
