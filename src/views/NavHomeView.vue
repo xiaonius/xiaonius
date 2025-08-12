@@ -55,7 +55,7 @@
       <!-- 左侧边栏底部信息 -->
       <div class="sidebar-footer">
         <a
-          href="https://xnss.fun/banqun"
+          href="http://xiaoniuss.top/xnssbq"
           target="_blank"
           rel="noopener noreferrer"
           class="github-link"
