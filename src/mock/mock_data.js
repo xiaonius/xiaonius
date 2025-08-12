@@ -699,6 +699,49 @@ export const mockData = {
           "icon": ""
         }
       ]
+    },
+    {
+      "id": "category-1754991175183",
+      "icon": ">>",
+      "name": "私有影院",
+      "order": 7,
+      "sites": [
+        {
+          "id": "site-1754991290339",
+          "name": "电影刮削",
+          "url": "https://www.tinymediamanager.org/download/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1754991306608",
+          "name": "kodi中文",
+          "url": "http://www.kodiplayer.cn",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1754991321901",
+          "name": "kodiTV",
+          "url": "https://kodi.tv/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1754991336427",
+          "name": "刮削dns查询",
+          "url": "https://dnschecker.org",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1754991354148",
+          "name": "刮削dns配置教程",
+          "url": "https://zhuanlan.zhihu.com/p/150590415",
+          "description": "",
+          "icon": ""
+        }
+      ]
     }
   ],
   "title": "小牛搜索"
