@@ -1,89 +1,11 @@
 export const mockData = {
   "categories": [
     {
-      "id": "my-favorites",
-      "name": "旗下产品",
+      "id": "category-1754996034517",
       "icon": ">>",
+      "name": "常用网站",
       "order": 0,
-      "sites": [
-        {
-          "id": "site-1752857783656",
-          "name": "小牛搜索",
-          "url": "https://xiaoniuss.top/",
-          "description": "",
-          "icon": ""
-        },
-        {
-          "id": "linux-do",
-          "name": "小牛书签",
-          "url": "https://b.xiaoniuss.top/",
-          "description": "",
-          "icon": ""
-        },
-        {
-          "id": "site-1752649007053",
-          "name": "小牛插件",
-          "url": "https://c.xiaoniuss.top/",
-          "description": "",
-          "icon": ""
-        },
-        {
-          "id": "github",
-          "name": "小牛解析",
-          "url": "https://v.xiaoniuss.top/",
-          "description": "",
-          "icon": ""
-        },
-        {
-          "id": "curlconverter",
-          "name": "小牛游戏",
-          "url": "https://y.xiaoniuss.top/",
-          "description": "",
-          "icon": ""
-        },
-        {
-          "id": "chatgpt",
-          "name": "代码编辑",
-          "url": "https://c.xiaoniuss.top/bjq/",
-          "description": "",
-          "icon": ""
-        },
-        {
-          "id": "claude",
-          "name": "色值选择",
-          "url": "https://c.xiaoniuss.top/ys/",
-          "description": "",
-          "icon": ""
-        },
-        {
-          "id": "midjourney",
-          "name": "搜索多开",
-          "url": "https://b.xiaoniuss.top/duoss.html",
-          "description": "",
-          "icon": ""
-        },
-        {
-          "id": "copilot",
-          "name": "小牛导航",
-          "url": "https://xydh.fun/guoxiaohan",
-          "description": "",
-          "icon": ""
-        },
-        {
-          "id": "cursor",
-          "name": "工作区",
-          "url": "https://xydh.fun/rongna",
-          "description": "",
-          "icon": ""
-        },
-        {
-          "id": "site-1754904306436",
-          "name": "大叔工作室",
-          "url": "https://yunyingguan.top",
-          "description": "",
-          "icon": ""
-        }
-      ]
+      "sites": []
     },
     {
       "id": "ai-tools",
@@ -984,6 +906,91 @@ export const mockData = {
           "id": "site-1754992104954",
           "name": "图片空间",
           "url": "https://sucai.wangpu.taobao.com/#/manage/pic?_k=3ax2p3",
+          "description": "",
+          "icon": ""
+        }
+      ]
+    },
+    {
+      "id": "my-favorites",
+      "name": "旗下产品",
+      "icon": ">>",
+      "order": 10,
+      "sites": [
+        {
+          "id": "site-1752857783656",
+          "name": "小牛搜索",
+          "url": "https://xiaoniuss.top/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "linux-do",
+          "name": "小牛书签",
+          "url": "https://b.xiaoniuss.top/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1752649007053",
+          "name": "小牛插件",
+          "url": "https://c.xiaoniuss.top/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "github",
+          "name": "小牛解析",
+          "url": "https://v.xiaoniuss.top/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "curlconverter",
+          "name": "小牛游戏",
+          "url": "https://y.xiaoniuss.top/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "chatgpt",
+          "name": "代码编辑",
+          "url": "https://c.xiaoniuss.top/bjq/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "claude",
+          "name": "色值选择",
+          "url": "https://c.xiaoniuss.top/ys/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "midjourney",
+          "name": "搜索多开",
+          "url": "https://b.xiaoniuss.top/duoss.html",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "copilot",
+          "name": "小牛导航",
+          "url": "https://xydh.fun/guoxiaohan",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "cursor",
+          "name": "工作区",
+          "url": "https://xydh.fun/rongna",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1754904306436",
+          "name": "大叔工作室",
+          "url": "https://yunyingguan.top",
           "description": "",
           "icon": ""
         }
