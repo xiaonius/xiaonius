@@ -429,7 +429,64 @@ export const mockData = {
       "name": "网盘工具",
       "icon": ">>",
       "order": 6,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1754975874516",
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1754975888020",
+          "name": "夸克网盘",
+          "url": "https://pan.quark.cn/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1754975900916",
+          "name": "阿里网盘",
+          "url": "https://www.aliyundrive.com/drive",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1754975915984",
+          "name": "蓝奏云盘",
+          "url": "https://www.lanzou.com",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1754975930772",
+          "name": "金山文档",
+          "url": "https://www.kdocs.cn",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1754975945678",
+          "name": "Teambition",
+          "url": "https://www.teambition.com/pan",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1754975962126",
+          "name": "NCM音乐转换",
+          "url": "https://ncm.worthsee.com",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1754975976194",
+          "name": "搜索多开",
+          "url": "https://b.xiaoniuss.top/duoss.html",
+          "description": "",
+          "icon": ""
+        }
+      ]
     },
     {
       "id": "design",
