@@ -426,8 +426,8 @@ export const mockData = {
     },
     {
       "id": "community",
-      "name": "社区论坛",
-      "icon": "👥",
+      "name": "网盘工具",
+      "icon": ">>",
       "order": 6,
       "sites": [
         {
@@ -469,8 +469,8 @@ export const mockData = {
     },
     {
       "id": "design",
-      "name": "设计工具",
-      "icon": "🎨",
+      "name": "建站开发",
+      "icon": ">>",
       "order": 4,
       "sites": [
         {
