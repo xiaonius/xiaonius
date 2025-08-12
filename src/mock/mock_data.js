@@ -5,7 +5,22 @@ export const mockData = {
       "icon": ">>",
       "name": "常用网站",
       "order": 0,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1754996088850",
+          "name": "豆包",
+          "url": "https://www.doubao.com/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1754996235841",
+          "name": "文心一言",
+          "url": "https://yiyan.baidu.com/",
+          "description": "",
+          "icon": ""
+        }
+      ]
     },
     {
       "id": "ai-tools",
