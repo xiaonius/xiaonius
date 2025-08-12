@@ -547,7 +547,7 @@ onUnmounted(() => {
 
 /* 左侧边栏样式 */
 .sidebar {
-  width: 280px;
+  width: 200px;
   background-color: #2c3e50;
   color: white;
   padding: 0;
@@ -669,7 +669,7 @@ onUnmounted(() => {
 
 .search-header {
   background: white;
-  padding: 20px;
+  padding: 70px;
   box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
   position: sticky;
   top: 0;
@@ -1006,8 +1006,8 @@ onUnmounted(() => {
 }
 
 .site-icon {
-  width: 48px;
-  height: 48px;
+  width: 0px;
+  height: 0px;
   margin-right: 16px;
   border-radius: 8px;
   overflow: hidden;
@@ -1033,8 +1033,8 @@ onUnmounted(() => {
 
 .site-name {
   font-size: 18px;
-  font-weight: 600;
-  margin: 0 0 5px 0;
+  font-weight: 300;
+  margin: 0 0 0px 0;
   color: #2c3e50;
 }
 
