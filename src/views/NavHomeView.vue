@@ -963,11 +963,11 @@ onUnmounted(() => {
   margin-left: 10px;
   font-size: 26px;
 }
-
+/* 导航模块大小 */
 .sites-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-  gap: 20px;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 10px;
 }
 
 .site-card {
