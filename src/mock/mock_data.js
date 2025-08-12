@@ -428,7 +428,7 @@ export const mockData = {
       "id": "community",
       "name": "网盘工具",
       "icon": ">>",
-      "order": 6,
+      "order": 4,
       "sites": [
         {
           "id": "site-1754975874516",
@@ -492,7 +492,7 @@ export const mockData = {
       "id": "design",
       "name": "建站开发",
       "icon": ">>",
-      "order": 4,
+      "order": 5,
       "sites": [
         {
           "id": "site-1754976009714",
@@ -570,7 +570,7 @@ export const mockData = {
       "id": "category-1754901551391",
       "icon": ">>",
       "name": "免密下载",
-      "order": 11,
+      "order": 6,
       "sites": [
         {
           "id": "site-1754976181722",
