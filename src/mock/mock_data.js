@@ -327,8 +327,8 @@ export const mockData = {
     },
     {
       "id": "dev-tools",
-      "name": "开发工具",
-      "icon": "🛠️",
+      "name": "设计视觉",
+      "icon": ">>",
       "order": 3,
       "sites": [
         {
