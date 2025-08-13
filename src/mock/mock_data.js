@@ -19,6 +19,20 @@ export const mockData = {
           "url": "https://yiyan.baidu.com/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1755049504969",
+          "name": "小牛搜索fun",
+          "url": "https://xiaoniuss.fun",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1755049534697",
+          "name": "小牛搜索top",
+          "url": "https://xiaoniuss.top",
+          "description": "",
+          "icon": ""
         }
       ]
     },
