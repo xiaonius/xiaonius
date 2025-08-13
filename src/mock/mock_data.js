@@ -19,13 +19,6 @@ export const mockData = {
           "url": "https://yiyan.baidu.com/",
           "description": "",
           "icon": ""
-        },
-        {
-          "id": "site-1755006440729",
-          "name": "测速",
-          "url": "https://xnss.fun/",
-          "description": "",
-          "icon": ""
         }
       ]
     },
