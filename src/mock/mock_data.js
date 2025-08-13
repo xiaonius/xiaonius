@@ -188,6 +188,13 @@ export const mockData = {
           "url": "https://supplier.eastbuy.com/home",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1755049372632",
+          "name": "金山文档",
+          "url": "https://www.kdocs.cn/latest",
+          "description": "",
+          "icon": ""
         }
       ]
     },
